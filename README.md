@@ -14,3 +14,10 @@ Opencv and Mediapipe libraries are utilized to track real-time hand movements in
 Using the hand gestures, we will be able to draw on screen.
 
 ![123515066-b808b300-d6b3-11eb-8082-97a67f5493c9](https://user-images.githubusercontent.com/104121811/232717560-bc171f52-bffc-4855-9d31-506f2c6e5063.jpg)
+
+
+### Dependencies:
+
+* mediapipe
+* OpenCV
+* numpy

@@ -1,6 +1,6 @@
 # AI_Virtual_Painter
 
-AI Virtual Painter project is divided into two parts:
+AI Virtual Painter is project developed using python and is divided into two parts:
 
 ### 1. Hand tracking:
 

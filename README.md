@@ -4,7 +4,7 @@ AI Virtual Painter project is divided into two parts:
 
 ### 1. Hand tracking:
 
-Opencv and Mediapipe libraries are utilized to track the hand movements in front of the camera.
+Opencv and Mediapipe libraries are utilized to track real-time hand movements in front of the camera.
 
 ![handtracking_shot](https://user-images.githubusercontent.com/104121811/232717398-828089c2-fb10-4df4-bf9b-478a9ce74b64.jpg)
 
